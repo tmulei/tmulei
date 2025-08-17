@@ -1,4 +1,4 @@
-# 👋 Hi there, I'm [Timothy]  
+# 👋 Hi there, I'm Timothy  
 
 💻 **IT Administrator @ Kuza Asset Management**  
 📍 Passionate about technology, databases, and solving IT issues  
@@ -36,7 +36,7 @@ Currently, I’m involved in:
 
 ## 🌍 Connect with Me  
 🔗 [GitHub Profile](https://github.com/tmulei)  
-📧 [tmulei@kuza.africa] 
+📧 Email: [tmulei@kuza.africa] 
 
 ---
 ⭐️ *“Continuous learning and adaptability are the keys to success in IT.”*  
