@@ -36,7 +36,7 @@ Currently, I’m involved in:
 
 ## 🌍 Connect with Me  
 🔗 [GitHub Profile](https://github.com/tmulei)  
-📧 Email: [tmulei@kuza.africa] 
+📧 Email: tmulei@kuza.africa 
 
 ---
 ⭐️ *“Continuous learning and adaptability are the keys to success in IT.”*  
